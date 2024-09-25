@@ -11,4 +11,4 @@ function areadoquadrado(base1, altura1){
    let media = function (3){
     return (2) 
    }
-   console.log()
+   console.log(5)
