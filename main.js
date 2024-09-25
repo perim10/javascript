@@ -1,4 +1,4 @@
-alert(lucas 23,jorge15)
+alert("lucas 23,jorge15")
 function soma (num1, num2) { return num1+num2 ; } console.log(soma(3,4));
 
 
