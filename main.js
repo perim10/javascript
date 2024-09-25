@@ -7,8 +7,11 @@ function areadoquadrado(base1, altura1){
 
  function areadotriangulo(base1, altura1,){
     return (base1*altura1) /2 ; }
-   
-   let media = function (3){
-    return (2) 
+  
+   console.log()
+   function media (num1, num2,num3){
+    return (num1+num2+num3) /3 ;
    }
-   console.log(5)
+   console.log
+   
+  
