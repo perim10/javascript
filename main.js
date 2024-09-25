@@ -6,6 +6,6 @@ function areadoquadrado(base1, altura1){
 
 
  function areadotriangulo(base1, altura1,){
-    return (base1*altura1)/2 ; }
+    return (base1*altura1) /2 ; }
    
    
