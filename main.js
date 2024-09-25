@@ -8,7 +8,7 @@ function areadoquadrado(base1, altura1){
  function areadotriangulo(base1, altura1,){
     return (base1*altura1) /2 ; }
    
-   let media = function eudouocu(x,y,z){
+   let media = function lucas(x,y,z){
     return (x+y+z) /3 ;
    }
    console.log()
