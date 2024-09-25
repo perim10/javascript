@@ -1,4 +1,6 @@
+alert(lucas 23,jorge15)
 function soma (num1, num2) { return num1+num2 ; } console.log(soma(3,4));
+
 
 function areadoquadrado(base1, altura1){
  return base1*altura1 ; }
