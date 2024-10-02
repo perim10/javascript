@@ -45,7 +45,7 @@
 //     console.log(estados[index]);
 
 // }
-let idade= ; 
+let idade= 40 ; 
 if(idade>17){
 console.log("PODE DIRIGIR")
 }
